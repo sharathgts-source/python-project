@@ -1,0 +1,19 @@
+{
+  "email": "omar.s@example.com",
+  "phone": "+34 612 ",
+  "name": "Omar Sanchez",
+  "skills": [
+    "Terraform, Ansible, Jenkins",
+    "AWS, GCP, Docker, Kubernetes",
+    "Monitoring: Prometheus, Grafana"
+  ],
+  "education": [],
+  "experience": [
+    "DevOps Engineer \u2014 CloudRunner (2018-2023)",
+    "Automated deployments and reduced manual steps by 80%."
+  ],
+  "experience_parsed": [
+    "DevOps Engineer \u2014 CloudRunner (2018-2023) Automated deployments and reduced manual steps by 80%."
+  ],
+  "_source_file": "resume_5_omar_sanchez.txt"
+}

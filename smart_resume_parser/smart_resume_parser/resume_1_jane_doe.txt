@@ -1,0 +1,20 @@
+Jane Doe
+Data Scientist
+Email: jane.doe@example.com | Phone: +1-555-123-4567
+
+Summary:
+Data scientist with 5 years of experience in ML, Python and NLP.
+
+Skills:
+- Python, R, SQL
+- Machine Learning, Deep Learning, NLP, Computer Vision
+- TensorFlow, PyTorch, scikit-learn, pandas, NumPy
+
+Experience:
+Data Scientist, Acme Corp (Jan 2020 - Present)
+- Built NLP pipelines to extract insights from customer reviews.
+- Improved model accuracy by 12% using hyperparameter tuning.
+
+Education:
+M.S. in Computer Science, University of Somewhere, 2018
+B.S. in Mathematics, College of Nowhere, 2016

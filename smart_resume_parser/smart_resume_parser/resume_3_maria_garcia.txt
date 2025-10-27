@@ -1,0 +1,16 @@
+Maria Garcia
+Phone: (555) 987-6543
+Email: maria.g@example.org
+
+Professional Summary:
+Full-stack developer with 7+ years building web applications.
+
+Skills: JavaScript, React, Node.js, Express, MongoDB, AWS, HTML, CSS
+
+Experience
+Lead Developer | WebWorks | 2017 - 2024
+- Led a team of 6 engineers to build e-commerce platforms.
+- Migrated monolith to microservices.
+
+Education
+B.S. in Software Engineering, University of Tech, 2014

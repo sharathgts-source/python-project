@@ -1,0 +1,24 @@
+{
+  "email": "li.wei@chinaexample.cn",
+  "phone": "+86 10 ",
+  "name": "LI WEI",
+  "skills": [
+    "C",
+    "C++",
+    "Embedded Linux",
+    "RTOS",
+    "IoT protocols (MQTT",
+    "CoAP)  Publications: - Efficient power management for IoT devices. Embedded Systems Journal",
+    "2021  Education: Ph.D. in Electrical Engineering",
+    "Tsinghua University",
+    "2020"
+  ],
+  "education": [
+    "Ph.D. in Electrical Engineering",
+    "Tsinghua University",
+    "2020"
+  ],
+  "experience": [],
+  "experience_parsed": [],
+  "_source_file": "resume_4_li_wei.txt"
+}

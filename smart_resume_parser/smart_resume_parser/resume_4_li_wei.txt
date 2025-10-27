@@ -1,0 +1,14 @@
+LI WEI
+li.wei@chinaexample.cn
++86 10 1234 5678
+
+Summary:
+Research engineer focusing on embedded systems and IoT.
+
+Skills: C, C++, Embedded Linux, RTOS, IoT protocols (MQTT, CoAP)
+
+Publications:
+- Efficient power management for IoT devices. Embedded Systems Journal, 2021
+
+Education:
+Ph.D. in Electrical Engineering, Tsinghua University, 2020

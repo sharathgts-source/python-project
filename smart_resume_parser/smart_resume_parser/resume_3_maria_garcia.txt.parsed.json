@@ -1,0 +1,31 @@
+{
+  "email": "maria.g@example.org",
+  "phone": "(555) ",
+  "name": "Maria Garcia",
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "AWS",
+    "HTML",
+    "CSS  Experience Lead Developer | WebWorks | 2017 - 2024 - Led a team of 6 engineers to build e-commerce platforms. - Migrated monolith to microservices.  Education B.S. in Software Engineering",
+    "University of Tech",
+    "2014"
+  ],
+  "education": [
+    "B.S. in Software Engineering",
+    "University of Tech",
+    "2014"
+  ],
+  "experience": [
+    "Lead Developer | WebWorks | 2017 - 2024",
+    "Led a team of 6 engineers to build e-commerce platforms.",
+    "Migrated monolith to microservices."
+  ],
+  "experience_parsed": [
+    "Lead Developer | WebWorks | 2017 - 2024 Led a team of 6 engineers to build e-commerce platforms. Migrated monolith to microservices."
+  ],
+  "_source_file": "resume_3_maria_garcia.txt"
+}

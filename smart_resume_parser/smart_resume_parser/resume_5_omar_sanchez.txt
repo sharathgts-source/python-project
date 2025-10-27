@@ -1,0 +1,14 @@
+Omar Sanchez
+omar.s@example.com | +34 612 345 678
+
+Summary:
+DevOps engineer with experience in CI/CD, Terraform, and cloud automation.
+
+Skills
+- Terraform, Ansible, Jenkins
+- AWS, GCP, Docker, Kubernetes
+- Monitoring: Prometheus, Grafana
+
+Experience:
+DevOps Engineer — CloudRunner (2018-2023)
+- Automated deployments and reduced manual steps by 80%.

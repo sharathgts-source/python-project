@@ -1,0 +1,19 @@
+Ajay Kumar
+ajay.kumar@mail.co | +91 98765 43210
+
+Objective:
+Seeking software engineering role focusing on backend systems.
+
+Technical Skills:
+Java, Spring Boot, Docker, Kubernetes, MySQL, PostgreSQL, Redis
+
+Work Experience:
+Senior Software Engineer - NetTech (2019 - Present)
+- Designed microservices for billing.
+- Reduced latency by 30%
+
+Projects:
+- Real-time analytics platform using Kafka and Flink.
+
+Education:
+B.Tech, Computer Science, IIT Example, 2015

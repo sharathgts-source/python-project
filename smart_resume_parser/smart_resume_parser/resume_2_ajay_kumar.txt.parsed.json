@@ -1,0 +1,29 @@
+{
+  "email": "ajay.kumar@mail.co",
+  "phone": "+91 98",
+  "name": "Ajay Kumar",
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "Docker",
+    "Kubernetes",
+    "MySQL",
+    "PostgreSQL",
+    "Redis"
+  ],
+  "education": [
+    "B.Tech",
+    "Computer Science",
+    "IIT Example",
+    "2015"
+  ],
+  "experience": [
+    "Senior Software Engineer - NetTech (2019 - Present)",
+    "Designed microservices for billing.",
+    "Reduced latency by 30%"
+  ],
+  "experience_parsed": [
+    "Senior Software Engineer - NetTech (2019 - Present) Designed microservices for billing. Reduced latency by 30%"
+  ],
+  "_source_file": "resume_2_ajay_kumar.txt"
+}
