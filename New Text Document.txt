@@ -1,0 +1,5 @@
+@echo off
+cd "C:\Users\shara\OneDrive\Desktop\smart_resume_parser\smart_resume_parser"
+call ..\venv\Scripts\activate
+streamlit run streamlit_app.py
+pause
